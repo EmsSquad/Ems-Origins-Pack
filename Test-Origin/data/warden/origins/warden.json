@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"warden:movment_see",
+		"warden:not_see",
+		"warden:stronk",
+		"warden:shader"
+	],
+	"icon": "minecraft:command_block",
+	"order": 12,
+	"impact": 3,
+    "name": "Warden",
+    "description": "These vile creatures live in the dark, forever fearing the day and praying upon innocent players in hope's of learning about the surface"
+}

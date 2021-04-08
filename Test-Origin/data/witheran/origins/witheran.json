@@ -1,0 +1,14 @@
+{
+	"powers": [
+        "witheran:fortress_spawn",
+        "witheran:witherd",
+		"witheran:freind",
+		"origins:fire_immunity",
+		"witheran:hostile"
+	],
+	"icon": "minecraft:wither_skeleton_skull",
+	"order": 11,
+	"impact": 3,
+    "name": "Witheran",
+    "description": "Your a wither skeleton now."
+}

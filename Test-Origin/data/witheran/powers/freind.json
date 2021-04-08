@@ -1,0 +1,19 @@
+{
+	"type": "originsplus:modify_behavior",
+	"behavior": "neutral",
+	"entities": [
+		"minecraft:zombie",
+		"minecraft:zombie_villager",
+		"minecraft:creeper",
+		"minecraft:spider",
+		"minecraft:cave_spider",
+		"minecraft:skeleton",
+		"minecraft:blaze",
+		"minecraft:husk",
+		"minecraft:stray",
+		"minecraft:wither_skeleton",
+		"minecraft:hoglin"
+	],
+	"name": "Friends of Monsters",
+	"description": "Being undead, mobs treat you as neutral."
+}

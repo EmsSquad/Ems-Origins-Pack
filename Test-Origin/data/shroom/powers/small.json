@@ -1,0 +1,15 @@
+{
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+    "type": "origins:execute_command",
+    "command": "execute as @s at @s run scale set 0.8 @s",
+    "permission_level": 4
+    },
+    "entity_action_removed": {
+        "type": "origins:execute_command",
+        "command": "execute as @s at @s run scale set 1 @s",
+        "permission_level": 4
+      },
+    "name": "Tiny",
+    "description": "Due to your a shroom your tiny!"
+}

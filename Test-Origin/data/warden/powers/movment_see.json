@@ -1,0 +1,12 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "execute as @s at @s run effect give @e[distance=1..15] minecraft:glowing 1 1 true",
+        "permission_level": 4
+    },
+
+    "interval": 10,
+    "name": "Movment",
+	"description": "You can only see mobs if there moving!"
+}

@@ -1,0 +1,10 @@
+{
+	"type": "originsplus:modify_behavior",
+	"behavior": "hostile",
+	"entities": [
+		"minecraft:piglin",
+		"minecraft:piglin_brute"
+	],
+	"name": "Curse of the Nether",
+	"description": "Being a wither skeleton, nether mobs treat you as hostile."
+}

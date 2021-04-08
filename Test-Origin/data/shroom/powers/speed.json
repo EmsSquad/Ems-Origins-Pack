@@ -1,0 +1,27 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "Habitat",
+    "description": "When in your home Habitat you are faster!",
+    "hidden": false,
+    "min_stacks": 0,
+    "max_stacks": 3,
+    "duration_per_stack": 30,
+    "effects": [
+        {
+            "duration": 100,
+            "is_ambient": false,
+            "show_particles": false,
+            "show_icon": true,
+            "effect": "minecraft:speed",
+            "amplifier": 0
+        }
+    ],
+    "condition": {
+        "type": "origins:biome",
+        "inverted": false,
+        "biomes": [
+            "minecraft:mushroom_fields",
+            "minecraft:mushroom_field_shore"
+        ]
+    }
+}

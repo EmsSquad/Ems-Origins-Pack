@@ -1,0 +1,13 @@
+{
+	"powers": [
+        "shroom:small",
+		"shroom:fragile",
+		"shroom:speed",
+		"shroom:antivore"
+	],
+	"icon": "minecraft:red_mushroom",
+	"order": 10,
+	"impact": 2,
+    "name": "Shroom",
+    "description": "A shroom origin!"
+}

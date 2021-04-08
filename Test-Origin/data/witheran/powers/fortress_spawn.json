@@ -1,0 +1,8 @@
+{
+    "type": "origins:modify_player_spawn",
+    "dimension": "minecraft:the_nether",
+    "structure": "minecraft:fortress",
+    "spawn_strategy": "center",
+    "name": "Fortress Born",
+    "description": "You spawn inside a Nether Fortress due to being a Wither Skeleton"
+}
